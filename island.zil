@@ -2270,7 +2270,7 @@ at least, until he grows tired of your body and your presence.">)>)
 very hard to think, you think, but you aren't sure."
 	 "Your eyes are extraordinarily dry. You blink to moisten them,
 and snort awake a minute later, drool dripping down your chin."
-	 "Sleep overtakes you and you slump into unconsiousness.">>
+	 "Sleep overtakes you and you slump into unconsciousness.">>
 
 <GLOBAL USED-LAUD <>>
 ;<GLOBAL FLAGON-POISONED <>>
