@@ -328,7 +328,7 @@ bench, looks big enough to snake " D ,ME " through" ,PCR>)>)
 		       <RETURN ,IN-HEDGE>)>)
 	       (T
 		<TELL ,CANT-GO>
-		<RETURN ,FALSE>)>>
+		<RFALSE>)>>
 
 <ROOM IN-HEDGE
       (IN ROOMS)
@@ -720,7 +720,7 @@ and from a brightly lit area to the east. The kitchen is north of you.")
 		<COND (<RUNNING? ,I-DUEL>
 		       <TELL ,YOU-CANT
 "force " D ,ME " between the amazed spectators of the duel" ,PCR>
-		       <RETURN ,FALSE>)
+		       <RFALSE>)
 		      (T
 		       <RETURN ,BALLROOM>)>)
 	       (<NOT <FSET? ,GOWN ,WORNBIT>>
@@ -732,7 +732,7 @@ the spectators fail to admit such a ">
 		      (T
 		       <TELL "poorly dressed female">)>
 		<TELL ".|">
-		<RETURN ,FALSE>)
+		<RFALSE>)
 	       (T
 		;<COND (<AND <HELD? ,HAT>
 			    <NOT <EQUAL? ,HERE ,FOYER>>>
