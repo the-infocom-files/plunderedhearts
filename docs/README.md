@@ -1,8 +1,10 @@
-*This page is currently under construction. Last updated August 2, 2019 by Alex Proudfoot.*
+# Plundered Hearts
 
-----
+## The Game
 
-Further information on Plundered Hearts:
+Plundered Hearts is a 1987 interactive fiction game written by Amy Briggs and published by Infocom.
+
+further information on Plundered Hearts:
 
 * [Wikipedia](https://en.wikipedia.org/wiki/Plundered_Hearts)
 * [The Digital Antiquarian](https://www.filfre.net/2015/10/plundered-hearts/)
@@ -10,20 +12,30 @@ Further information on Plundered Hearts:
 * [The Infocom Gallery](http://infocom.elsewhere.org/gallery/plundered/plundered.html)
 * [IFWiki](http://www.ifwiki.org/index.php/Plundered_Hearts)
 
-The following source material is available for importation. Release 26 was selected from the Zarf Sources.
+## Resources
 
-## Historical Releases
+* [Plundered Hearts on The Obsessively Complete Infocom Catalog](https://eblong.com/infocom/#plunderedhearts)
+* [Plundered Hearts on Historical Source (GitHub)](https://github.com/historicalsource/plunderedhearts)
+* [Infocom Fact Sheet](http://pdd.if-legends.org/infocom/fact-sheet.txt)
 
-These contain the available source material.
+## Version History
 
-| Release | Serial | Story File        | Zarf Sources | Jason Scott Sources |
-| -------:|:------:|:-----------------:|:------------:|:-------------------:|
-|      26 | 870730 |  [r26-s870730-z3] |    [r26-zip] |       [revision-26] |
-|         |        |                   | [rlater-zip] |    [final-revision] |
+Zarf's Obsessively Complete Infocom Catalog holds copies of the game files for every existing version of Plundered Hearts listed in the Infocom Fact Sheet. It also holds the source files for version 26/870730 and a later, in progress, version.
 
-[r26-s870730-z3]: https://eblong.com/infocom/gamefiles/plunderedhearts-r26-s870730.z3
-[r26-zip]: https://eblong.com/infocom/sources/plunderedhearts-r26.zip
-[revision-26]: https://github.com/historicalsource/plunderedhearts/tree/54d2e05fccf7614a50184895f72ddcab6e818dd6
+| Release | Serial | Story File                       | Zarf Sources                 | Historical Sources |
+| -------:|:------:|:--------------------------------:|:----------------------------:|:------------------:|
+|      26 | 870730 | [plunderedhearts-r26-s870730.z3] |    [plunderedhearts-r26.zip] |      [revision 26] |
+|       - |      - |                                - | [plunderedhearts-rlater.zip] |   [final revision] |
 
-[rlater-zip]: https://eblong.com/infocom/sources/plunderedhearts-rlater.zip
-[final-revision]: https://github.com/historicalsource/plunderedhearts/tree/b5a28ce803f14b196fcdc5790291bbd47a4807d3
+[plunderedhearts-r26-s870730.z3]: https://eblong.com/infocom/gamefiles/plunderedhearts-r26-s870730.z3
+[plunderedhearts-r26.zip]: https://eblong.com/infocom/sources/plunderedhearts-r26.zip
+[revision 26]: https://github.com/historicalsource/plunderedhearts/tree/54d2e05fccf7614a50184895f72ddcab6e818dd6
+
+[plunderedhearts-rlater.zip]: https://eblong.com/infocom/sources/plunderedhearts-rlater.zip
+[final revision]: https://github.com/historicalsource/plunderedhearts/tree/b5a28ce803f14b196fcdc5790291bbd47a4807d3
+
+## Future Development
+
+Version 26/870730 has been selected as the starting point for future development.
+
+Compilation issues are recorded [here](https://github.com/the-infocom-files/plunderedhearts/issues/2).
