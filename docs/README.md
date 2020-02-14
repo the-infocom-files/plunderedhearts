@@ -20,12 +20,10 @@ further information on Plundered Hearts:
 
 ## Version History
 
-Zarf's Obsessively Complete Infocom Catalog holds copies of the game files for every existing version of Plundered Hearts listed in the Infocom Fact Sheet. It also holds the source files for version 26/870730 and a later, in progress, version.
-
-| Release | Serial | Story File                       | Zarf Sources                 | Historical Sources |
-| -------:|:------:|:--------------------------------:|:----------------------------:|:------------------:|
-|      26 | 870730 | [plunderedhearts-r26-s870730.z3] |    [plunderedhearts-r26.zip] |      [revision 26] |
-|       - |      - |                                - | [plunderedhearts-rlater.zip] |   [final revision] |
+| Release | Serial | Type | Story File                       | Obsessive Sources            | Historical Sources |
+| -------:|:------:|:----:|:--------------------------------:|:----------------------------:|:------------------:|
+|      26 | 870730 |  PUB | [plunderedhearts-r26-s870730.z3] |    [plunderedhearts-r26.zip] |      [revision 26] |
+|       - |      - |  WIP |                                - | [plunderedhearts-rlater.zip] |   [final revision] |
 
 [plunderedhearts-r26-s870730.z3]: https://eblong.com/infocom/gamefiles/plunderedhearts-r26-s870730.z3
 [plunderedhearts-r26.zip]: https://eblong.com/infocom/sources/plunderedhearts-r26.zip
