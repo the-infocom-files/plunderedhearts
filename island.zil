@@ -1506,7 +1506,7 @@ It seems to be the only book that has been read in the library,
 the leather creased and dull with use." CR>)>>
 
 
-<ROUTINE GENERIC-BOOK (X "OPTIONAL" Y)
+<ROUTINE GENERIC-BOOK (X)
 	 <COND (<EQUAL? ,HERE ,LIBRARY>
 		,BOOKS-GLOBAL)>>
 

@@ -1053,7 +1053,7 @@ dealer, or via mail order with the form">
 	       (T
 		<RECOGNIZE>)>>
 
-<ROUTINE V-IN ("AUX" VEHICLE)
+<ROUTINE V-IN ()
 	 <DO-WALK ,P?IN>>
 
 ;<ROUTINE V-INFLATE ()
@@ -2745,7 +2745,7 @@ never taking " D ,EYES " off Nicholas Jamison" ,PCR>)
 
 ;"subtitle object manipulation"
 
-<ROUTINE ITAKE ("OPTIONAL" (VB T) "AUX" ;CNT OBJ)
+<ROUTINE ITAKE ("OPTIONAL" (VB T))
 	 <COND (<NOT <FSET? ,PRSO ,TAKEBIT>>
 		<COND (.VB
 		       <WASTES>)>
